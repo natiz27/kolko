@@ -109,3 +109,4 @@ def gra():
 if __name__=='__main__':
     gra()
 
+#zmiana PC
