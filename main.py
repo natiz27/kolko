@@ -1,2 +1,2 @@
 #%% Gra kółko i krzyżyk
-
+#:)
